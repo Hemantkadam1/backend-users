@@ -41,6 +41,12 @@ const users = [
     name: 'TJ Holowaychuk',
     repoCount: 150,
     location: 'Victoria',
+
+    id: 6,
+    username: 'hk',
+    name: 'hemant kadam',
+    repoCount: 200,
+    location: 'Satara',
   },
 ];
 
